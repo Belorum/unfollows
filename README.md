@@ -2,7 +2,7 @@
 Get email notifications about Twitter unfollowers
 
 
-### Requeriments
+### Requirements
 ##### cURL
 `apt-get install curl` (if you don't already have it).
 
